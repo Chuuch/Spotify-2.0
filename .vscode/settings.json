@@ -3,6 +3,8 @@
         "nextjs",
         "Supa",
         "supabase",
+        "uniqid",
+        "upsert",
         "zustand"
     ]
 }
